@@ -1,0 +1,6 @@
+{
+    "name": "RobLoweMOJ/TestPackage",
+    "description": "Test Package",
+    "type": "wordpress-theme",
+    "require": {}
+}
