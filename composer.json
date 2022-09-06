@@ -2,6 +2,6 @@
     "name": "RobLoweMOJ/TestPackage",
     "description": "Test Package",
     "type": "wordpress-theme",
-    "version": "1.0.0-RC2",
+    "version": "dev-testfeature1",
     "require": {}
 }
